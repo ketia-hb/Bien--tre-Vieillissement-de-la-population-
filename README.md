@@ -52,9 +52,11 @@ L'étude explore plusieurs thématiques importantes liées au vieillissement :
 **Résultats**
 
 Cette analyse comparative entre l’Allemagne et la Suède met en évidence que, bien que les deux pays soient confrontés à un vieillissement démographique similaire, certaines différences apparaissent dans l’état de santé et la prise en charge des personnes âgées. 
+
 Les résultats suggèrent que les seniors suédois déclarent en moyenne un meilleur état de santé physique et mentale, tandis que les personnes âgées allemandes présentent davantage de comportements à risque et une perception de santé plus dégradée.
 En revanche, l’Allemagne se distingue par une plus grande proximité familiale et une utilisation plus fréquente des services médicaux. 
-Ces résultats illustrent que, face à un défi démographique commun, les réponses institutionnelles, sociales et sanitaires peuvent varier sensiblement selon les pays, soulignant l’importance des politiques publiques adaptées pour préserver l’autonomie et améliorer la qualité de vie des personnes âgées.
+
+Ils montrent que, face à un défi démographique commun, les réponses institutionnelles, sociales et sanitaires peuvent varier sensiblement selon les pays, soulignant l’importance des politiques publiques adaptées pour préserver l’autonomie et améliorer la qualité de vie des personnes âgées.
 
 
 
